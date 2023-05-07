@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing required packages..."
-sudo pacman -Syy bspwm sxhkd alacritty zsh polybar dmenu picom nitrogen vim neovim
+sudo pacman -Syy bspwm sxhkd alacritty zsh polybar rofi picom nitrogen vim neovim
 
 echo "Installing required fonts..."
 sudo pacman -Syy ttf-font-awesome
