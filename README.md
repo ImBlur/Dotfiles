@@ -6,8 +6,7 @@ These are my current dotfiles for Arch Linux.
 - Terminal: alacritty
 - Shell: zsh & oh-my-zsh - Theme: darkblood
 - Bar: polybar
-- Menu: dmenu
+- Menu: rofi
 - Wallpaper: nitrogen
 - Compositor: picom
 - VIM: LunarVim
-
